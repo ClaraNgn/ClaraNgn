@@ -11,7 +11,7 @@ Business Analytics student at Kent State University, focused on turning messy da
 
 ## Tools
 
-`Python` · `pandas` · `NumPy` · `Matplotlib` · `Seaborn` · `Tableau` · `Jupyter`
+`Python` · `pandas` · `Tableau` · `Jupyter`
 
 Also comfortable with `HTML`, `CSS`, and `JavaScript` for presenting projects on the web.
 
